@@ -4,9 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "Tl;dr"
   url = "#about"
   weight = 10
+
+# [[main]]
+#   name = "Overview"
+#   url = "#overview"
+#   weight = 11
+
+# [[main]]
+#   name = "Getting starged"
+#   url = "#getting starged"
+#   weight = 12
+
+[[main]]
+  name = "Documentation"
+  url = "https://catalyst-team.github.io/catalyst/"
+  weight = 13
 
 [[main]]
   name = "Posts"
@@ -14,19 +29,29 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Talks"
+  url = "#talks"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Projects"
+  url = "#projects"
   weight = 40
+
+# [[main]]
+#   name = "Publications"
+#   url = "#publications"
+#   weight = 50
+
+# [[main]]
+#   name = "Team"
+#   url = "#team"
+#  weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
