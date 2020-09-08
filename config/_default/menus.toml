@@ -43,10 +43,10 @@
 #   url = "#publications"
 #   weight = 50
 
-# [[main]]
-#   name = "Team"
-#   url = "#team"
-#  weight = 50
+[[main]]
+  name = "Team"
+  url = "#team"
+  weight = 50
 
 [[main]]
   name = "Contact"
