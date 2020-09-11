@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: ML engineer
+role: PhD student
 
 # Organizations/Affiliations
 organizations: [] # [Neuromation]
