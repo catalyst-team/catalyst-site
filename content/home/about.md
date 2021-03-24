@@ -28,10 +28,10 @@ hero_media = "catalyst-share.png"
   label = '<a class="js-github-release" href="https://github.com/catalyst-team/catalyst/releases" data-repo="catalyst-team/catalyst">Latest release<!-- V --></a>'
 +++
 
-Catalyst is PyTorch framework for deep learning research and development.
+Catalyst is a PyTorch framework for Deep Learning Research and Development.
 
 It focuses on reproducibility, rapid experimentation, and codebase reuse 
-so you can create something new rather than write another regular train loop.
+so you can create something new rather than write yet another train loop.
 
 Break the cycle - use the **Catalyst**!
 
