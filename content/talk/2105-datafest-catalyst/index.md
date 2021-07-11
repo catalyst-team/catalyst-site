@@ -1,19 +1,19 @@
 ---
-title: DataFest 2020 – Catalyst workshop
-event: DataFest 2020 – Catalyst workshop
-event_url: "https://youtube.com/playlist?list=PLAjRKb17KSnMqW3B6WyqtfnECIzOGrZHG"
+title: DataFest 2021 – Catalyst workshop
+event: DataFest 2021 – Catalyst workshop
+event_url: "https://youtube.com/playlist?list=PLAjRKb17KSnMk8rXFQ5VVjfwYMEUfIRUK"
 
-summary: "DataFest 2020 – Catalyst workshop"
+summary: "DataFest 2021 – Catalyst workshop"
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-06"
+date: "2021-05-30"
 # date_end: "2017-12-25T00:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-10-06"
+publishDate: "2021-05-30"
 
 authors: []
 tags: []
@@ -32,7 +32,7 @@ links:
   url: https://twitter.com/Scitator
 url_code: ""
 url_pdf: ""
-url_video: "https://youtube.com/playlist?list=PLAjRKb17KSnMqW3B6WyqtfnECIzOGrZHG"
+url_video: "https://youtube.com/playlist?list=PLAjRKb17KSnMk8rXFQ5VVjfwYMEUfIRUK"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -52,52 +52,47 @@ projects: []
 math: true
 ---
 
-{{< gdocs src="https://docs.google.com/presentation/d/1jtVsS1RlzQ9y_Udxo3HwrHWVf5lddyPW5fr6WP6KIgY/embed?start=false&loop=false&delayms=5000" >}}
+<!-- {{< gdocs src="https://docs.google.com/presentation/d/1jtVsS1RlzQ9y_Udxo3HwrHWVf5lddyPW5fr6WP6KIgY/embed?start=false&loop=false&delayms=5000" >}} -->
+
+<!-- --- -->
+
+### Prince Canuma - Catalyst experiments logging with Neptune
+
+{{< youtube qsPnXUOKjVA >}}
 
 ---
 
-### Yury Kashnitsky - Firing a cannon at sparrows: BERT vs. logreg
-
-{{< youtube uKN61jM-g9A >}}
-
----
-
-### Hristo Vrigazov - Multi-task learning in the real world with Catalyst
+### Ivan Goncharov - Catalyst experiments logging with Wandb
 
 {{< youtube FzVCCqFzMlk >}}
 
 ---
 
-### Kirill Vishnyakov - How Catalyst-powered projects advanced my academic career
+### Артем Чумаченко – как создать курс с нуля? Deep Learning with Catalyst
 
-{{< youtube I90ukVDQVVU >}}
-
----
-
-### Nikita Balagansky - Pruning with Catalyst
-
-{{< youtube boukxdJUpFI >}}
+{{< youtube uJLI51hHIWc >}}
 
 ---
 
-### Aleksei Shabanov - Metric Learning with Catalyst
+### Никита Балаганский – Compressors библиотека для уменьшения моделей
 
-{{< youtube a7sDJMDatZ4 >}}
-
----
-
-### Lokesh Nandanwar - Multilingual Text detection in Video/Images
-
-{{< youtube -H4O1OaCX0I >}}
+{{< youtube UoN1iwEIux0 >}}
 
 ---
 
-### Anatoly Potapov - Pre-training Transformers with Catalyst 
+### Александр Мамаев – Text-To-Speech with Catalyst
 
-{{< youtube fNX6XII4c8s >}}
+{{< youtube 5BB-Bv-WTtU >}}
 
 ---
 
-### Yauheni Kachan - Super-Resolution with Catalyst
+### Artem Zholus – IGLU Competition @ NeurIPS 2021: Grounded Language Understanding with RL
 
-{{< youtube s6YXYIqDkDQ >}}
+
+{{< youtube iLB7EUbyiMw >}}
+
+---
+
+### Валентин Малых – Секретный Доклад
+
+{{< youtube so__XUdRZx8 >}}
