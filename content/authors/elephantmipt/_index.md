@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student
+role: ""
 
 # Organizations/Affiliations
 organizations: []
@@ -47,8 +47,8 @@ email: "nikitabalagansky@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Metric Learning
+user_groups: 
+- ""
 
 ---
 

@@ -1,19 +1,19 @@
 ---
-title: "Catalyst: from research to production"
-event: Sberbank Data Science Day
-event_url: "ai-journey.ru"
+title: "PyTorch Community Voices | Catalyst"
+event: "PyTorch Community Voices | Catalyst"
+# event_url: "https://meetup.tinkoff.ru/event/tinkoff-ai-recsys"
 
-summary: ""
+summary: "Join us for an interview with star PyTorch community member Sergey Kolesnikov, the creator of Catalyst, a high-level PyTorch framework for Deep Learning Research and Development. "
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-11-10"
+date: "2021-09-08"
 # date_end: "2017-12-25T00:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2018-11-10"
+publishDate: "2021-09-08"
 
 authors: []
 tags: []
@@ -31,9 +31,9 @@ links:
   name: Follow
   url: https://twitter.com/Scitator
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: "https://youtu.be/9NfBT5Bc8HY?t=6574"
+# url_pdf: "https://drive.google.com/file/d/1K0EGzdH6T7XdEcVq8qyAcm9cfMm9riap/view?usp=sharing"
+# url_slides: "https://docs.google.com/presentation/d/1Lv0SySrRaptGs4oRe6hw1oZS8X7QsYPtOkEey1uE-nQ/edit?usp=sharing"
+url_video: "https://youtu.be/GLdLz27GoLs"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -47,11 +47,17 @@ url_video: "https://youtu.be/9NfBT5Bc8HY?t=6574"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects:
-# - nips-rl-17
+projects: []
 
 # Enable math on this page?
 math: true
 ---
 
-{{< youtube 9NfBT5Bc8HY >}}
+{{< youtube GLdLz27GoLs >}}
+
+<!-- --- -->
+
+<!-- {{< gdocs src="https://docs.google.com/presentation/d/1Lv0SySrRaptGs4oRe6hw1oZS8X7QsYPtOkEey1uE-nQ/embed?start=false&loop=false&delayms=5000" >}} -->
+
+
+
